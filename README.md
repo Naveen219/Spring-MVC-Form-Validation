@@ -1,6 +1,6 @@
 # Spring MVC Form Validation
 
-I developed this simple project to test my understanding of Spring MVC.
+I developed this simple project to test my understanding of **Spring MVC**.
 
 I created a simple user registration form.
 
@@ -12,7 +12,7 @@ The Server responds with appropriate error messages if the conditions are not me
 ## Technogies used:
 
 
-## Spring MVC, Sprring Boot, JSP
+## Spring MVC, Spring Boot, JSP, Hibernate Validator
 
 
 
